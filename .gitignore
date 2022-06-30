@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Obj directory
+keil/OBJ/
+keil/USER/DebugCOnfig/
+
+Template.uvguix.*
+*Log.txt
+JlinkLog.txt
+
+
